@@ -4,4 +4,4 @@
 
 ### Student Netology
 
-![Foto-HW.png](..%2FFoto-HW.png)
+![Foto-HW.png](Foto-HW.png)
